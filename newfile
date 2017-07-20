@@ -1,3 +1,5 @@
 this is a new file to test the command:
 git push origin master.
 
+and test the command:
+git pull 
